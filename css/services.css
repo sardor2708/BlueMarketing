@@ -31,3 +31,32 @@ padding: 15px;
 background: white;
 border-radius: 8px;
 }
+
+
+
+.services__card{
+    background: #FFFFFF;
+border-radius: 8px;
+display: flex;
+align-items: center;
+gap: 15px;
+padding: 15px 20px;
+width: 255px;
+margin-bottom: 15px;
+}
+.desc__h{
+    font-family: 'Rubik';
+font-size: 16px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+color: #323232;
+padding: 5px 0;
+}
+.desc__p{
+    font-family: 'Rubik';
+font-size: 14px;
+font-weight: 300;
+line-height: 13px;
+color: black;
+}
