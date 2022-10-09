@@ -1,0 +1,33 @@
+.services{
+    margin-bottom: 44px;
+}
+.news{
+    max-width: 825px;
+    width: 100%;
+    
+}
+.news__h{
+    font-family: 'Rubik' , sans-serif;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+color: #686868;
+margin-bottom: 22px;
+
+}
+.news__list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 15px;
+}
+.news__item{
+    font-family: 'Rubik' , sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+color: #545454;
+padding: 15px;
+background: white;
+border-radius: 8px;
+}
